@@ -74,7 +74,7 @@ The review has three steps:
    - 50-59 Reject (May Resubmit)
    - 0-49 Reject
 
-How to use it: score the draft honestly against those five, find the weakest category, fix that before submitting. Read one real report first, the band table is on the last pages of the PDF: https://airjournals.org/doi/10.65737.AIRJNS2026349.html (v2 scored 82/100, prints the full table), or just the 5 categories at https://airjournals.org/doi/10.65737.AIRMCS2026277.html (v1 scored 92/100).
+How to use it: score the draft honestly against those five, find the weakest category, fix that before submitting. Read one real report first, the band table is on the last pages of the PDF: https://airjournals.org/doi/10.65737.AIRJNS2026349.html (revised twice; v2 scored 82/100, prints the full table) and https://airjournals.org/doi/10.65737.AIRJET2026717.html (revised once; v1 scored 87/100, prints the full table), or just the 5 categories at https://airjournals.org/doi/10.65737.AIRMCS2026277.html (v1 scored 92/100; outright acceptance with no revisions).
 
 Say this part plainly: self-scoring raises the odds, it does not guarantee anything. The detailed standards behind each category are internal and unannounced, decisions are score-based, and fees are non-refundable. A high self-score is not an acceptance promise.
 

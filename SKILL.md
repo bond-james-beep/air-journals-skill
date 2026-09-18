@@ -65,6 +65,7 @@ The review has three steps:
    - Evidence & Reasoning, max 20 (claims backed, no logical gaps, internally consistent)
    - Transparency & Integrity, max 10 (assumptions stated, limitations acknowledged)
    - Contribution & Impact, max 10 (originality, field advancement)
+   
    Decision bands (printed in full in published reports, e.g. AIRJNS2026349 and AIRJET2026717):
    - 90-100 Accept
    - 80-89 Minor Revisions
